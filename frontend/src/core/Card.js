@@ -100,7 +100,7 @@ const Card = ({
   return (
 <div className="border rounded shadow">
 <div className="card m-2 ">
-  <div className="view overlay">
+  <div className="">
     {shouldRedirect(redirect)}
     {/* <a href={product.youtubelink} data-toggle="lightbox" data-gallery="youtubevideos"> */}
     <ShowImage item={product} url="product" className="img-thumbnail" />
