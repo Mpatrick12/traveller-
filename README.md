@@ -32,7 +32,7 @@ MongoDB ExpressJS React NodeJS
 
 How to run the project 🚀:
 Open the Terminal.
-Clone the repository by entering $ git clone https://github.com/shsarv/Traveller for Life-react.git .
+Clone the repository by entering $ git clone https://github.com/Mpatrick12/traveller-.git
 Ensure that NodeJS and npm are installed on the system.
 change the diectory to repository name using $ cd Traveller for Life-react.
 Create a .env file and write REACT_APP_API_URL='your backend api url'.
